@@ -18,7 +18,7 @@ build-type:          Simple
 tested-with:         GHC == 7.4.2, GHC == 7.6.3, GHC == 7.8.4, GHC == 7.10.2
 
 synopsis:            A variation of Data.Dynamic.Dynamic with a Binary instance
-description:         This Dynamic is Binary instance by encapsulating only
+description:         This Dynamic is instance Binary by encapsulating only
                      values of types that are Binary. It is a bit more
                      efficient than something similar to (ByteString, TypeRep)
                      as it avoids unnecessary encode/decoding round-trips.
