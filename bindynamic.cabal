@@ -23,6 +23,10 @@ description:         This Dynamic is instance Binary by encapsulating only
                      efficient than something similar to (ByteString, TypeRep)
                      as it avoids unnecessary encode/decoding round-trips.
 
+source-repository head
+  type: git
+  location: git@github.com:lspitzner/bindynamic.git
+
 library {
   exposed-modules:
     Data.Dynamic.Binary
