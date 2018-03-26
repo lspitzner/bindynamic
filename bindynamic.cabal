@@ -6,7 +6,7 @@ cabal-version:       >=1.10
 license:             GPL-3
 license-file:        LICENSE
 author:              Lennart Spitzner
-maintainer:          Lennart Spitzner <lsp@informatik.uni-kiel.de>
+maintainer:          Lennart Spitzner <hexagoxel@hexagoxel.de>
 copyright:           Lennart Spitzner, 2015
 
 Homepage:            https://github.com/lspitzner/bindynamic
